@@ -55,3 +55,6 @@ The median results support the same pattern, with higher-rated products also ach
 
 ## **Recommendations**
 Products with higher ratings consistently generate stronger sales in the following month, suggesting that product ratings can be used **as a useful signal for future sales performance**. Businesses should monitor rating trends alongside product sales to identify products with strong customer sentiment and prioritize them for visibility, merchandising, and promotional opportunities. Lower-rated products should be investigated for potential issues in product quality, customer experience, or product expectations, with improvement initiatives focused on addressing the underlying causes of poor ratings. However, ratings should be treated **as one input within broader product-performance decisions**, rather than as a standalone predictor of future sales.
+
+## **Tools Used**
+- **Power BI** — Data preparation & analysis
